@@ -1,4 +1,4 @@
 <html>
 <h1>MONIKA'S PORTFOLIO</h1>
-<img src ="./ file_000.jpg" >
+<img src ="./ file_000.jpeg" >
 </html>
